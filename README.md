@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=50&fontAlign=90&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=FFFFFF&height=200&section=header&text=Greetings!&fontSize=50&fontAlign=85&fontAlignY=35&desc=Jaehwan%20Hyun&descAlignY=55&descAlign=90)
 
 
 <!--
