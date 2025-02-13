@@ -1,16 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4dd152&fontColor=FFFFFF&height=200&section=header&text=Greetings!&fontSize=50&fontAlign=85&fontAlignY=35&desc=Jaehwan%20Hyun&descAlignY=55&descAlign=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&fontColor=000000&height=100&section=header&text=Jaehwan%20Hyun&fontSize=50&fontAlign=50&fontAlignY=35)
 
 
 <div align=center>
-  <h3>Hello There 👋</h3>
-  <p> Welcome to my repository! </p>
 
-  <h3> 📚 Field of Interest 📚 </h3>
+  <h3> Main Tech Stack </h3>
 </div>
  <div align="center">
-   Springboot framework <br>
-   Software Architecture <br>
+   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+   <br>
    
+   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
+   <br>
 </div>
 
 
