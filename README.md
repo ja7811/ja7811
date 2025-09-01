@@ -9,13 +9,17 @@
    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">
    <br>
    
    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
    <br>
+   
+   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white">
+   
 </div>
 
 
