@@ -1,26 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&fontColor=000000&height=100&section=header&text=Jaehwan%20Hyun&fontSize=50&fontAlign=50&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&fontColor=000000&height=100&section=header&text=Jaehwan%20Hyun&fontSize=50&fontAlign=22&fontAlignY=35)
+<!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&fontColor=000000&height=100&section=header&text=Jaehwan%20Hyun&fontSize=50&fontAlign=50&fontAlignY=35) -->
 
 
-<div align=center>
+## Experience
+- **LG AI Research** | Backend Engineer Intern (2026.09 ~)
+- **당근마켓** | Backend Engineer Intern (2025.12 ~ 2026.03)
+- **SW마에스트로 16기** (2025.04 ~ 2025.12)
 
-  <h3> Main Tech Stack </h3>
-</div>
- <div align="center">
-   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+
+
+## Education
+**중앙대학교 소프트웨어학부** (2020.03 ~ 2027.02)
+- 평점: 4.39/4.5
+
+
+**자격증**
+- 정보처리기사, TOPCIT (Level IV), OPIC (Intermediate High)
+
+
+## Tech Stack
+- 주로 사용 - <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
    <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">
-   <br>
-   
-   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
+- 사용 경험 - <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-   <br>
-   
-   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
-   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white">
-   
-</div>
 
 
 
